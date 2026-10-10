@@ -1,0 +1,55 @@
+{
+  "featuredId": "cyberpunk-protocol-zero",
+  "rails": [
+    {
+      "id": "continue-watching",
+      "title": "Continue Watching for Alex",
+      "variant": "continue",
+      "itemIds": ["orbital-drift", "midnight-archives", "solar-wardens", "chrome-detective"],
+      "dynamicTitle": true
+    },
+    {
+      "id": "trending",
+      "title": "Trending Now",
+      "variant": "top10",
+      "itemIds": [
+        "cyberpunk-protocol-zero",
+        "neon-eclipse",
+        "quantum-veil",
+        "starfall-chronicles",
+        "void-runner",
+        "helix-paradox",
+        "dark-matter",
+        "pulse-city",
+        "afterlight",
+        "zero-gravity"
+      ]
+    },
+    {
+      "id": "new-releases",
+      "title": "New Releases & Blockbusters",
+      "variant": "standard",
+      "itemIds": [
+        "protocol-ascension",
+        "last-orbit",
+        "glass-horizon",
+        "ember-protocol",
+        "skyforge",
+        "night-market"
+      ]
+    },
+    {
+      "id": "sci-fi-acclaimed",
+      "title": "Critically Acclaimed Sci-Fi & Fantasy",
+      "variant": "standard",
+      "itemIds": [
+        "event-horizon-tapes",
+        "the-silent-array",
+        "lunar-cartography",
+        "analog-dreams",
+        "prism-gate",
+        "iron-coast"
+      ]
+    }
+  ]
+}
